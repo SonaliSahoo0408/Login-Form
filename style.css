@@ -2,7 +2,6 @@ body{
     /* background-image: url('https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/'); */
     background: linear-gradient(to left, yellow, red, blue);
     font-size: 20px;
-  
   }
   a:link{
     text-decoration: none;
